@@ -369,9 +369,3 @@ results = {
 plot_final_results(results)
 
 plot_confusion_matrix(model_baseline, model_b, test_loader, device)
-
-
-# normalization?
-# sigmoid or softmax?
-# MSE or BCE
-# confusion matrix/graphs?
