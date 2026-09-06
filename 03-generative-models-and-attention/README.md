@@ -12,4 +12,4 @@ This directory contains advanced implementations focusing on low-data stabilizat
 **Dataset Requirements**
 
 * The VAE pipeline specifically restricts the training set to 350 real examples per digit from the ReducedMNIST dataset.
-* The attention pipelines require both the full ReducedMNIST dataset and the spoken digits spectrogram dataset.
+* The attention pipelines require both the full [ReducedMNIST](https://www.kaggle.com/datasets/mohamedgamal07/reduced-mnist) dataset and the spoken digits spectrogram dataset.
