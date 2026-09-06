@@ -10,7 +10,7 @@ This directory contains implementations for polynomial regression modeling and s
 
 **Dataset Requirements**
 
-* The active learning pipelines require the `Indian_Digits_Train` dataset, which consists of 10,000 unlabelled 28x28 grayscale images.
+* The active learning pipelines require the [Indian_Digits_Train](https://www.kaggle.com/datasets/mohamedgamal07/reduced-mnist) dataset, which consists of 10,000 unlabelled 28x28 grayscale images.
 * Ensure the dataset folder is located in the root of this directory before executing the scripts.
 
 **Execution**
