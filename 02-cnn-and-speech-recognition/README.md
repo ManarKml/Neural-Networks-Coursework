@@ -13,5 +13,5 @@ This directory contains Convolutional Neural Network (CNN) architectures impleme
 
 **Dataset Requirements**
 
-* The visual classification pipeline requires the [Indian_Digits_Train](https://www.kaggle.com/datasets/mohamedgamal07/reduced-mnist) dataset (1000 training examples and 200 test examples per digit).
+* The visual classification pipeline requires the [Reduced MNIST](https://www.kaggle.com/datasets/mohamedgamal07/reduced-mnist) dataset (1000 training examples and 200 test examples per digit).
 * The speech recognition pipeline requires the spoken digits audio dataset. 
